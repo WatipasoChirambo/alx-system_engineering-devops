@@ -1,2 +1,2 @@
 #!/bin/bash
-xdg-open starwars
+telnet towel.blinkenlights.nl
