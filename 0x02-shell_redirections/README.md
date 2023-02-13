@@ -34,3 +34,5 @@ script removing all js extension files
 12. Directories
 script that counts the number of directories and sub-directories in the current directory.
 
+13. What’s new
+script that displays the 10 newest files in the current directory.
