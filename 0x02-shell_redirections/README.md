@@ -6,3 +6,6 @@ script that prints out confused smiley.
 
 3. 2-hellofile
 Script displaying content of the /etc/passwd file
+
+4. 3-twofiles
+Script displaying the content of /etc/passwd and /etc/hosts
