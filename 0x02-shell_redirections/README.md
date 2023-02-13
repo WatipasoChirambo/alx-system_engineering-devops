@@ -74,4 +74,7 @@ script that finds all empty files and directories in the current directory and a
 script that lists all the files with a .gif extension in the current directory and all its sub-directories
 
 26. Acrostic
-script that decodes acrostics that use the first letter of each line.
+script that decodes acrostics that use the first letter of each line
+
+27. The biggest fan
+script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
