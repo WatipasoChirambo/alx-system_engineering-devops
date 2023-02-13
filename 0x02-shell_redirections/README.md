@@ -36,3 +36,6 @@ script that counts the number of directories and sub-directories in the current 
 
 13. What’s new
 script that displays the 10 newest files in the current directory.
+
+14. Unique words
+script that takes a list of words as input and prints only words that appear exactly once.
