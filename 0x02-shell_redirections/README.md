@@ -51,3 +51,6 @@ Script displaying lines containing the pattern “root” and 3 lines after them
 
 18. I hate bins
 script displaying all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+19. Letters only
+script displaying alll lines of the file /etc/ssh/sshd_config startigng with a letter.
