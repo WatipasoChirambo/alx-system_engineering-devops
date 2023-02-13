@@ -66,3 +66,6 @@ script reversing its input
 
 23. DJ Cut Killer
 script that displays all users and their home directories, sorted by users.
+
+24. Empty casks
+script that finds all empty files and directories in the current directory and all sub-directories.
