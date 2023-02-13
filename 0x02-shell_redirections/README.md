@@ -27,3 +27,6 @@ script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
 
 10. Duplicate last line
 Script to duplicate the last line of the iacta file
+
+11. No more javascript
+script removing all js extension files
