@@ -64,3 +64,5 @@ Script removing both c and C from inpuit
 22. esreveR
 script reversing its input
 
+23. DJ Cut Killer
+script that displays all users and their home directories, sorted by users.
