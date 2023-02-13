@@ -54,3 +54,6 @@ script displaying all the lines in the file /etc/passwd that do not contain the 
 
 19. Letters only
 script displaying alll lines of the file /etc/ssh/sshd_config startigng with a letter.
+
+20. A to Z
+script replace all characters A and c from input to Z and e respectively.
