@@ -18,4 +18,8 @@ script that lists environment variables.
 6. Local variables
 script that lists all local variables and environment variables and functions
 
-7. 
+7. Local variable
+script that creates a new local variable
+
+8. Global variable
+script that creates a new global variable 
