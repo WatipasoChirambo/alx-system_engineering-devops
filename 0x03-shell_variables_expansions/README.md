@@ -23,3 +23,6 @@ script that creates a new local variable
 
 8. Global variable
 script that creates a new global variable 
+
+9. True Knowledge
+script that prints the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
