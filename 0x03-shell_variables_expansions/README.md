@@ -11,3 +11,6 @@ script adding /action to the PATH. /action should be the last directory the shel
 
 4. If the path be beautiful, let us not ask where it leads
 script that counts the number of directories in the PATH.
+
+5. Global variables
+script that lists environment variables.
